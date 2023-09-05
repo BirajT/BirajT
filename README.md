@@ -1,37 +1,21 @@
-✨Tech I use every day ✨
-💻Lenovo Yoga 6 AMD Ryzen 7: https://amzn.to/3IqmpAf
-🎥Vivo V19 mobile cammera: https://amzn.to/3KyEA8y
-🔅Ring Light: https://amzn.to/3rKBfLj
-🎙Mauno Mic: https://amzn.to/3FRacTA
-⽴Digitek tripod: https://amzn.to/3qNJ1Vk
-🎧BoAt Rockerz 450 Headphone:  https://amzn.to/3KC0S9J
-📺Samsung 27-inch Curved: https://amzn.to/3KA1i07
-🖱Logitech mouse: https://amzn.to/3fPKtA8
-🖱Zebronics keyboard: https://amzn.to/3GVQgjz
-💺Delta Office Chair: https://amzn.to/3KseZhA
+<h1 align="center">Hi 👋, I'm Biraj Tamrakar</h1>
+<h3 align="center">I am a Learner</h3>
 
-🌟 Please leave a LIKE ❤️ and SUBSCRIBE for more AMAZING content! 🌟
+- 🔭 I’m currently working on **BIT Preparation software**
 
-Hey!! I am Rishav Chanda, First-year Student at 📍 KIIT 🏫 pursuing Computer Science Engineering 🔌. I enjoy reading books 📚 and solving problems 📝 using Computer Science 💻. This channel is on college, growth 📈 and everything in between. New videos every week 📅. We'll be talking about productivity ⏳, work life balance, career and more.
+- 🌱 I’m currently learning **C++**
 
-📸 Instagram: https://www.instagram.com/rishav_chanda
-🌎 Website: https://rishavchanda.github.io
-📱 Twitter: https://twitter.com/rishavchanda
-📝 LinkedIn: https://www.linkedin.com/in/rishav-ch...
-📂 GitHub: https://github.com/rishavchanda
+- 👯 I’m looking to collaborate on **C programming,C++**
 
+- 📫 How to reach me **birajtamrakar803@gmail.com**
 
-Generate your own ReadMe:
-https://rahuldkjain.github.io/gh-prof...
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://fb.com/biraj tamrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="biraj tamrakar" height="30" width="40" /></a>
+<a href="https://instagram.com/biraj tamrakar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="biraj tamrakar" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@biraj yt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@biraj yt" height="30" width="40" /></a>
+</p>
 
-Those Awesome Profile Inspiration here:
-https://github.com/EddieHubCommunity/...
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> </p>
 
-add Right Gif Image
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
-add banner (use your links) :
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
-
-
-Instagram Id: https://www.instagram.com/rishav_chanda
