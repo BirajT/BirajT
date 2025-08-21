@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **BIT Preparation software**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **JS**
 
 - 👯 I’m looking to collaborate on **C programming,C++**
 
