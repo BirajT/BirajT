@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Biraj Tamrakar</h1>
 <h3 align="center">I am a Learner</h3>
 
-- 🔭 I’m currently working on **BIT Preparation software**
-
 - 🌱 I’m currently learning **JS**
-
-- 👯 I’m looking to collaborate on **C programming,C++**
 
 - 📫 How to reach me **birajtamrakar803@gmail.com**
 
