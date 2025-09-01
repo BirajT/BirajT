@@ -2,9 +2,7 @@
 
 Welcome to my GitHub profile. I'm a software developer passionate about coding, web development, and building practical solutions.
 
-## 📈 GitHub Stats
-<img src="https://github-contribution-stats.vercel.app/api?username=BirajTamrakar&show_icons=true" alt="Contribution Stats" style="width: 50%; height: auto;" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BirajTamrakar&layout=compact" alt="Top Languages" style="width: 50%; height: auto;" />
+## 📈 GitHub Stats <img src="https://github-contribution-stats.vercel.app/api?username=saagar7200&show_icons=true" alt="Contribution Stats" style="width: 50%; height: auto;" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saagar7200&layout=compact" alt="Top Languages" style="width: 50%; height: auto;" />
 
 ## 🌐 Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biraj-tamrakar-12b519273/)
