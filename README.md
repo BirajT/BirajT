@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub profile. I'm a software developer passionate about coding, web development, and building practical solutions.
+Welcome to my GitHub profile. I'm a BIT Student passionate about coding, web development, and building practical solutions.
 
 ## 🌐 Find Me Online:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biraj-tamrakar-12b519273/)
